@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>WebGL check</title>
+    </head>
+    <body>
+        <h1>Checking WebGL...</h1>
+    <script src="build/build.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      var hasWebGL = require('has-webgl');
+
+      document.querySelector("h1").innerHTML = hasWebGL? "We have WebGL!"
+                                                       : "No WebGL here :(";
+    </script>
+    </body>
+</html>
+

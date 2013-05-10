@@ -1,0 +1,14 @@
+{
+  "name": "has-webgl",
+  "repo": "jb55/has-webgl",
+  "description": "Detects if the browser supports WebGL",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

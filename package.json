@@ -1,0 +1,9 @@
+{
+  "name": "has-webgl",
+  "description": "WebGL detection",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/jb55/has-webgl"
+  },
+  "main": "index.js"
+}
